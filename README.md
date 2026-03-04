@@ -10,9 +10,8 @@ A small Gradio chat UI that answers as you, using your summary and Resume. Recor
 2. **Create `.env`** from `.env.example` and set at least `OPENAI_API_KEY`.
 3. **Install and run** (uses [uv](https://docs.astral.sh/uv/) and `.python-version`):
    ```bash
-   uv venv
-   uv pip install -r requirements.txt
-   uv run python app.py
+   uv sync
+   uv run app.py
    ```
 
 See **STEPS.md** for moving this into its own Git repository.
