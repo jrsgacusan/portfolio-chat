@@ -1,3 +1,9 @@
+---
+title: portfolio-chat
+app_file: app.py
+sdk: gradio
+sdk_version: 5.49.1
+---
 # Portfolio Chat
 
 A personal chatbot I built for my website portfolio. It answers visitors as me, using my summary and resume, and can record leads and unknown questions via Pushover (optional).
