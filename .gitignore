@@ -1,0 +1,8 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+me/resume.pdf
+me/summary.txt
